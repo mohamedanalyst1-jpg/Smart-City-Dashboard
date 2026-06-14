@@ -10,8 +10,7 @@ The dashboard helps decision-makers identify top-performing cities, compare regi
 
 ## 📊 Dashboard Preview
 
-![Smart Cities Dashboard](images/Smart-Cities-Dashboard.png)
-
+![Smart Cities Dashboard](images/Screenshot%202026-06-14%20141111.png)
 ---
 
 ## 🎯 Objectives
